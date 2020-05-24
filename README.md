@@ -21,8 +21,4 @@ __[Training and test Datasets available here](https://www.kaggle.com/c/ga-custom
 -XG Boost
 -Random Forest
 
-### Submission Results
-![Image of submissions](C:\Users\Johney\Downloads\MundapallilScott-333-A3\best_submission.png)
-
-
 
